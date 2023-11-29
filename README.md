@@ -1,6 +1,6 @@
 # Diabetes-Binary-Health-Indicators
 
-Dibuat untuk melakukan automatisasi pengolahan (cleaning) data text yang berguna untuk pemodelan model analisa sentimen serta visualisasi dari data tersebut.
+Created to automate the processing (cleaning) of text data that is useful for modeling sentiment analysis models and visualization of the data.
 
 ### Link Tableau
 
